@@ -1,0 +1,4 @@
+{
+    "python.linting.enabled": false,
+    "editor.rulers": [80]
+}

@@ -1,0 +1,19 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+
+        
+        {
+            "name": "librec_auto",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/librec_auto/__main__.py",
+            "console": "integratedTerminal",
+            "args": [ "-t", "demo03","-c", "config03.xml", "-q", "run"],
+            "cwd": "/Users/will/Desktop/work/librec-auto-demo2021"
+        }
+    ]
+}
